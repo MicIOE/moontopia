@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: . monitor_lib/mail.jar monitor_lib/org.springframework.con
+ text.support-3.0.5.RELEASE.jar monitor_lib/quartz-all-1.6.0.jar monit
+ or_lib/spring-beans-3.0.5.RELEASE.jar monitor_lib/spring-context-3.0.
+ 5.RELEASE.jar monitor_lib/spring-core-3.0.5.RELEASE.jar monitor_lib/l
+ og4j-1.2.16.jar monitor_lib/xstream-1.4.1.jar monitor_lib/commons-log
+ ging-1.1.1.jar monitor_lib/spring-asm-3.0.5.RELEASE.jar monitor_lib/s
+ pring-expression-3.0.5.RELEASE.jar monitor_lib/commons-collections-3.
+ 2.1.jar monitor_lib/spring-tx-3.0.5.RELEASE.jar monitor_lib/j2ee.jar
+Main-Class: com.zyzhou.agent.entry.StartMonitor
+
