@@ -1,281 +1,68 @@
-±¾±¦±´ÊÇKICKSTARTERµÄInformation Moon£¨ĞÅÏ¢ÔÂÇò£©ÓëµÇÔÂÏîÄ¿µÄÖĞÎÄ°æ·¢²¼£¬ÒÔÏÂ±±ÃÀ°æ±¾¶¼Ò»Ñù¿ÉÒÔ¹ºÂò
+NOTEï¼šè‹±æ–‡ç‰ˆåœ¨KICKSTARTERå’ŒIndiegogoå‘å¸ƒï¼Œæµ·å¤–VISAå¯è´­
+â€¢æœ¬å®è´æ˜¯KICKSTARTERçš„Information Moonï¼ˆä¿¡æ¯æœˆçƒï¼‰ä¸ç™»æœˆé¡¹ç›®çš„ä¸­æ–‡ç‰ˆå‘å¸ƒï¼Œä»¥ä¸‹åŒ—ç¾ç‰ˆæœ¬éƒ½ä¸€æ ·å¯ä»¥è´­ä¹°    https://igg.me/at/moontopia
 
-https://kickstarter.com/projects/mailtopia/270402823/edit/preview/description
+https://www.indiegogo.com/projects/information-moon-blockchain-iot-moon-landing-plan#/
+â€¢
+è¿™æ˜¯ä¸–ç•Œä¸Šæœ€ç¾å¥½çš„ç¤¼ç‰©ï¼Œæ˜¯èµ é€äº²äººæœ‹å‹çœŸæƒ…ä¹‹ç‰©ï¼Œæ›´ä¸ç”¨è¯´æ—©å·²ä¾é™„æµªæ¼«ã€æ°¸æ’ã€å¿ è¯šã€ç¾ä¸½ã€ç‹¬ä¸€è¿™æ ·çš„è¯æ±‡å­—çœ¼ 
 
+æ˜¯å¦æ›¾æ†§æ†¬ï¼Œæ‹¥æœ‰ä¸€ä»½å±äºè‡ªå·±çš„æœˆäº®æ˜Ÿçƒè¡¨é¢ï¼Œç”¨äºæ¢ç´¢å¼€å‘
 
-ÕâÊÇÊÀ½çÉÏ×îÃÀºÃµÄÀñÎï£¬ÊÇÔùËÍÇ×ÈËÅóÓÑÕæÇéÖ®Îï£¬¸ü²»ÓÃËµÔçÒÑÒÀ¸½ÀËÂş¡¢ÓÀºã¡¢ÖÒ³Ï¡¢ÃÀÀö¡¢¶ÀÒ»ÕâÑùµÄ´Ê»ã×ÖÑÛ
-
-
-ÊÇ·ñÔøã¿ã½£¬ÓµÓĞÒ»·İÊôÓÚ×Ô¼ºµÄÔÂÁÁĞÇÇò±íÃæ£¬ÓÃÓÚÌ½Ë÷¿ª·¢
-
-Ö»ÒªÒ»·İMoontopiaºÏÔ¼£¬ÄúÄÜ»ñÈ¡ÔÂÁÁĞÇÇò120/150Æ½·½Ã×ÊôÓÚ×Ô¼ºµÄ×ğ¹óÈ¨Êô£¬ÔÚÕâÆ¬½à¾»°×Ö½´¦ÊãĞ´×Ô¼ºÃÎÏë¡ª¡ªÃ÷ÔÂ¼¸Ê±ÓĞ£¬ÏÖÔÚÄÜÓµÓĞ
-
-¹Ù·½±êÅä£ºÔÂÇò120Æ½·½Ã×61.8%µÄ999Äê¹²Ê¶ºÏÔ¼Ò»·İ£¬¸½¼ş°ü£º¹²Ê¶ºĞ×Ó*1£¬¹û¿ÇÍøÔÂ±íµØÍ¼*1£¬Å¯¶¬¼ÍÄî°æÒôÀÖºØ¿¨Ò»ÕÅ£¨Ö½ÖÊ£©
-£¨1ÍúÍúºÅ1¸öµØÖ·ÏŞÅÄ1´Î£¬·İÊı×î¶àÎª10£¬¸½¼ş°ü¶¼·¢ËÍ1·İ±ÜÃâ¹²Ê¶¼¯ÖĞ£¬¶àÅÄÒÔ10ÎªÉÏÏŞ·¢»õ£©£¤1,999
+åªè¦ä¸€ä»½Moontopiaåˆçº¦ï¼Œæ‚¨èƒ½è·å–æœˆäº®æ˜Ÿçƒ120/150å¹³æ–¹ç±³å±äºè‡ªå·±çš„å°Šè´µæƒå±ï¼Œåœ¨è¿™ç‰‡æ´å‡€ç™½çº¸å¤„æŠ’å†™è‡ªå·±æ¢¦æƒ³â€”â€”æ˜æœˆå‡ æ—¶æœ‰ï¼Œç°åœ¨èƒ½æ‹¥æœ‰
+â€¢å®˜æ–¹æ ‡é…ï¼šæœˆçƒ120å¹³æ–¹ç±³61.8%çš„999å¹´å…±è¯†åˆçº¦ä¸€ä»½ï¼Œé™„ä»¶åŒ…ï¼šå…±è¯†ç›’å­*1ï¼Œæœå£³ç½‘æœˆè¡¨åœ°å›¾*1ï¼Œæš–å†¬çºªå¿µç‰ˆéŸ³ä¹è´ºå¡ä¸€å¼ ï¼ˆçº¸è´¨ï¼‰
+ï¼ˆ1æ—ºæ—ºå·1ä¸ªåœ°å€é™æ‹1æ¬¡ï¼Œä»½æ•°æœ€å¤šä¸º10ï¼Œé™„ä»¶åŒ…éƒ½å‘é€1ä»½é¿å…å…±è¯†é›†ä¸­ï¼Œå¤šæ‹ä»¥10ä¸ºä¸Šé™å‘è´§ï¼‰ï¿¥1,999 
  
+â€¢å¥—é¤ä¸€ï¼šæœˆçƒ150å¹³æ–¹ç±³61.8%çš„999å¹´å…±è¯†åˆçº¦ä¸€ä»½ï¼Œé™„ä»¶åŒ…ï¼šå…±è¯†ç›’å­*1ï¼Œæœˆçƒå…¨æ¯3Dæ‰“å°æœº*1ï¼ˆIoTç‰ˆï¼‰ï¼Œæœå£³ç½‘æœˆè¡¨åœ°å›¾*1ï¼Œæš–å†¬çºªå¿µç‰ˆéŸ³ä¹è´ºå¡ä¸€å¼ ï¼ˆçº¸è´¨ï¼‰ 
 
-Ì×²ÍÒ»£ºÔÂÇò150Æ½·½Ã×61.8%µÄ999Äê¹²Ê¶ºÏÔ¼Ò»·İ£¬¸½¼ş°ü£º¹²Ê¶ºĞ×Ó*1£¬ÔÂÇòÈ«Ï¢3D´òÓ¡»ú*1£¨IoT°æ£©£¬¹û¿ÇÍøÔÂ±íµØÍ¼*1£¬Å¯¶¬¼ÍÄî°æÒôÀÖºØ¿¨Ò»ÕÅ£¨Ö½ÖÊ£©
-£¨1ÍúÍúºÅ1µØÖ·ÏŞÅÄ1´Î£¬·İÊı×î¶àÎª10£¬¸½¼ş°ü¶¼·¢ËÍ1·İ±ÜÃâ¹²Ê¶¼¯ÖĞ£¬¶àÅÄÒÔ10ÎªÉÏÏŞ·¢»õ£©£¤2,999
+ï¼ˆ1æ—ºæ—ºå·1åœ°å€é™æ‹1æ¬¡ï¼Œä»½æ•°æœ€å¤šä¸º10ï¼Œé™„ä»¶åŒ…éƒ½å‘é€1ä»½é¿å…å…±è¯†é›†ä¸­ï¼Œå¤šæ‹ä»¥10ä¸ºä¸Šé™å‘è´§ï¼‰ï¿¥2,999
+â€¢æ³¨ï¼šå®˜æ–¹æ ‡é…ä¸å¥—é¤ä¸€ä¸åšæ··åˆæ‹å“¦ï¼ŒåŒäººåŒå€çš„ä¸Šé“¾å‰æˆ‘ä»¬ä¼šåšæœºå™¨å’Œäººå·¥ç”„åˆ«å“¦
 
+æ–°æ¢æœˆæ—¶ä»£æ¥ä¸´ï¼Œæœªæ¥çš„æ‚¨ç¼ºå¸­äº†å—
 
+åŸç†ï¼šå®è´å¹¶éå½¢è€Œä¸Šçš„äº§å“ï¼Œæ˜¯å°è£…æœ‰çœŸå®æƒå±çš„æ•°å­—æ™ºèƒ½åˆçº¦ï¼Œä»¥åˆ†å¸ƒå¼åŠ¨æ€æ•°æ®è´¦ç›®è®°å½•éš¾ä»¥ç¯¡æ”¹çš„æ‰€æœ‰æƒï¼Œè®©ä½ åšå®è¿ˆå‡ºæ¢æ±‚å®‡å®™çš„ç¬¬ä¸€æ­¥ï¼Œæœ€ç»ˆè·å¾—å±äºè‡ªå·±çš„æœˆè¡¨æƒå±ï¼ˆä»¥åˆçº¦æ‰€æœ‰è€…ä¸­ç¬¬ä¸€ä¸ªé©»æœˆ365å¤©ä»¥ä¸Šã€å®‰è¿”å›åœ°çƒåçš„999å¹´æœŸï¼‰ã€‚åˆçº¦åŸç†ä¸ºï¼šåˆçº¦æ„å‘è€…è®¤å¯åœ¨å…ˆåˆçº¦æ‹¥æœ‰è€…æ‰€ç¡®ç«‹çš„åˆçº¦æƒç›Šï¼Œè¿›è€Œå®è·µåŒè´¨åˆçº¦çš„è´­å…¥ï¼ˆäº¦è®¤å¯æ­¤é¡¹è´­ä¹°æ”¯å‡ºå®Œå…¨ç”¨äºå’Œå¹³å‘å±•äººç±»æ·±ç©ºäº‹ä¸šï¼‰ï¼Œä»¥ä¸€ç§å…±è¯†æ¥ç»­çš„æ–¹å¼å‘åˆ†æ•£å…³è”çš„æ•°æ®åº“è´¦æœ¬æ‰§è¡Œæƒç›Šå†™å…¥å¹¶æŒç»­å¹¿æ’­ï¼ˆè®¡ç®—æœºMailtopiaåŒºå—é“¾åŸç†ï¼‰ã€‚å½“å…±è¯†æŠµè¾¾ä¸€å®šé‡ï¼Œç¦»æ•£åº¦è¶Šé«˜ã€åˆçº¦è¶Šç¨³å›ºè€Œä¸å¯ç¯¡æ”¹ï¼Œæå¤§åº”ç”¨äºæ•°å­—ç‰ˆæƒã€åŸåˆ›ã€èµ„äº§æƒç›Šã€å¸æ³•å­˜è¯ç­‰é‡è¦é¢†åŸŸã€‚
 
-ĞÂÌ½ÔÂÊ±´úÀ´ÁÙ£¬Î´À´µÄÄúÈ±Ï¯ÁËÂğ
+ã€æ³¨ï¼šä½œä¸ºæ‰¿æ¥äººç±»ç¤¾ä¼šçš„å†å²ä¸æœªæ¥å…±è¯†ï¼Œåˆçº¦ä¿ç•™æ—¢å¾€å’Œå°†æ¥äººç±»å¯¹å¤ªç©ºäº‹ä¸šåšå‡ºè´¡çŒ®è€…çš„å†—ä½™éƒ¨åˆ†ï¼Œå…¶æœ¬äºº/äº²å±ä¸ºå¤©ç„¶æ‹¥æœ‰ï¼Œå¯è‡ªåŠ¨å¸ƒç½²èµ ä¸åˆçº¦ä¸€ä»½ã€‘
 
-Ô­Àí£º±¦±´²¢·ÇĞÎ¶øÉÏµÄ²úÆ·£¬ÊÇ·â×°ÓĞÕæÊµÈ¨ÊôµÄÊı×ÖÖÇÄÜºÏÔ¼£¬ÒÔ·Ö²¼Ê½¶¯Ì¬Êı¾İÕËÄ¿¼ÇÂ¼ÄÑÒÔ´Û¸ÄµÄËùÓĞÈ¨£¬ÈÃÄã¼áÊµÂõ³öÌ½ÇóÓîÖæµÄµÚÒ»²½£¬×îÖÕ»ñµÃÊôÓÚ×Ô¼ºµÄÔÂ±íÈ¨Êô£¨ÒÔºÏÔ¼ËùÓĞÕßÖĞµÚÒ»¸ö×¤ÔÂ365ÌìÒÔÉÏ¡¢°²·µ»ØµØÇòºóµÄ999ÄêÆÚ£©¡£ºÏÔ¼Ô­ÀíÎª£ººÏÔ¼ÒâÏòÕßÈÏ¿ÉÔÚÏÈºÏÔ¼ÓµÓĞÕßËùÈ·Á¢µÄºÏÔ¼È¨Òæ£¬½ø¶øÊµ¼ùÍ¬ÖÊºÏÔ¼µÄ¹ºÈë£¨ÒàÈÏ¿É´ËÏî¹ºÂòÖ§³öÍêÈ«ÓÃÓÚºÍÆ½·¢Õ¹ÈËÀàÉî¿ÕÊÂÒµ£©£¬ÒÔÒ»ÖÖ¹²Ê¶½ÓĞøµÄ·½Ê½Ïò·ÖÉ¢¹ØÁªµÄÊı¾İ¿âÕË±¾Ö´ĞĞÈ¨ÒæĞ´Èë²¢³ÖĞø¹ã²¥£¨¼ÆËã»úMailtopiaÇø¿éÁ´Ô­Àí£©¡£µ±¹²Ê¶µÖ´ïÒ»¶¨Á¿£¬ÀëÉ¢¶ÈÔ½¸ß¡¢ºÏÔ¼Ô½ÎÈ¹Ì¶ø²»¿É´Û¸Ä¡£
+å…±è¯†å°ç›’ä»£ä½ é¨æ¸¸å¤ªç©º
 
+é¦–æ‰¹å…±æ¨å‡º88ä¸‡ä»½åˆçº¦ä½œä¸ºåŸºçŸ³åˆçº¦ï¼Œåç»­åˆçº¦ä¸€å®šæ— æ­¤åˆ’ç®—ï¼Œè´­å…¥å¯„å‡ºçš„é™„ä»¶åŒ…ä¸­å¸¦ä¸€ä¸ªå…±è¯†ç›’å­ä¾›æ‚¨æ¥å…¥ã€‚è¿™æ ·ï¼Œä½ å°±æ¥ä¸€åœºè¯´èµ°å°±èµ°çš„æœˆçƒæ—…ç¨‹å§^
 
+æ˜¯ä¸ªä¾æ®åˆçº¦é¢„ç½®çš„é©»æœˆè®¡åˆ’ï¼Œç»è¿‡åŠªåŠ›è·å¾—çš„æ¯”é¢„æƒ³çš„æ›´å¤š
 
-¡¾×¢£º×÷Îª³Ğ½ÓÈËÀàÉç»áµÄÀúÊ·ÓëÎ´À´¹²Ê¶£¬ºÏÔ¼±£Áô¼ÈÍùºÍ½«À´ÈËÀà¶ÔÌ«¿ÕÊÂÒµ×ö³ö¹±Ï×ÕßµÄÈßÓà²¿·Ö£¬Æä±¾ÈË/Ç×ÊôÎªÌìÈ»ÓµÓĞ£¬¿É×Ô¶¯²¼ÊğÔùÓëºÏÔ¼Ò»·İ¡¿
+ä»¥è´¡çŒ®å®æ–½åˆçº¦ï¼Œè¶Šæ¥è¿‘å®ç°ç™»æœˆç›®çš„ï¼Œåˆçº¦æ„ä¹‰ã€ä»·å€¼ä¼šè¶Šå¤§ï¼Œåä¹‹åˆçº¦ä½è¿·
 
+é˜è¿°ç†è®ºï¼šæ¢æœˆã€ç™»æœˆã€é©»æœˆè®¡åˆ’ï¼Œä¿¡æ¯å…ˆè¡Œâ€”â€”é¦–å…ˆï¼Œéœ€è¦æŠŠæœˆçƒå˜æˆä¸€ä¸ªæ™ºæ…§æ˜Ÿçƒ
 
-¹²Ê¶Ğ¡ºĞ´úÄãåÛÓÎÌ«¿Õ
+â€¢â€œç„¶åå‘¢ï¼Ÿâ€/â€œæ— ç¼çš„ç‰©ç‰©äº’è”æ‰èƒ½çœŸæ­£å®ç°æ— äººé©¾é©¶å•Šã€æ‰èƒ½æœ‰æ— äººçš„å·¥ç¨‹é˜ŸååŒä¸ºä½ æ–½å·¥æ‰“é€ ä½ å®¶è±ªå®…å˜›~â€/â€œè¿˜æœ‰åœ°æœˆæ‰‹æœºã€å…±è¯†çš„åœ°æœˆå·æ®µã€‚è¿™æ ·ï¼Œä¿¡æ¯è”ç½‘ä»¥åå°±å¯ä»¥ç»™æœˆçƒå°è½¦é€šç”µè¯äº†ï¼Œå°è½¦é—´ä¹Ÿå¯ä»¥ä¸ç”¨åˆ‡æ¢è€Œäº’ç›¸é€šç”µè¯é¿å…æ’è½¦å®ç°é—­çœ¼ç©¿æ¢­é©¾é©¶å•¦ï¼â€
 
-Ê×Åú¹²ÍÆ³ö88Íò·İºÏÔ¼×÷Îª»ùÊ¯ºÏÔ¼£¬ºóĞøºÏÔ¼Ò»¶¨ÎŞ´Ë»®Ëã£¬¹ºÈë¼Ä³öµÄ¸½¼ş°üÖĞ´øÒ»¸ö¹²Ê¶ºĞ×Ó¹©Äú½ÓÈë¡£ÕâÑù£¬Äã¾ÍÀ´Ò»³¡Ëµ×ß¾Í×ßµÄÔÂÇòÂÃ³Ì°É^
+â€¢â€œå“¦ï¼Œé‚£æˆ‘æ˜ç™½äº†ï¼Œä¸€ä¸ªæœˆæ—çš„å…¨å‘˜æ™ºæ…§å‡ç»“çš„èªæ˜æ˜Ÿçƒï¼Œè¿è¡Œåœ¨åœ°æœˆé—´çš„å…¬æœ‰åŒºå—é“¾ã€å…±è¯†ä¿¡æ¯é“¾ï¼Œä¼ é€ä½ ç»†ç»†é‡‡é›†åˆ†äº«çš„å¯è´µçš„èˆªå¤©åœ°ç†ç©ºé—´ä¿¡æ¯ã€‚â€
 
+â€¢å“‡ï¼Œæˆ‘å¥½æƒ³ä¹°ä¸€ä»½ï¼Œä¹°ä¸€ä»½å¯¹å¤ªç©ºè¿›å–çš„æ‰§å¿µã€æˆ‘å°±æœ‰åŠ¨åŠ›å¥½å¥½å­¦ä¹ å•¦ã€‚ã€‚ã€‚
 
+â€¢å—¯---ï¼Œä½†æ˜¯æˆ‘æ€•è¢«å‘~~~ç°åœ¨å‘äººçš„å®¶ä¼™å¯è¿˜ä¸å°‘å“¦ï¼
 
-ÊÇ¸öÒÀ¾İºÏÔ¼Ô¤ÖÃµÄ×¤ÔÂ¼Æ»®£¬¾­¹ıÅ¬Á¦»ñµÃµÄ±ÈÔ¤ÏëµÄ¸ü¶à
+â€¢ä»€ä¹ˆï¼å•¥å­ï¼Ÿå‘€ï¼Ÿï¼æ˜¯50äº¿å¹´éšæ—¶é€€æ¬¾ä¿è¯å•Šï¼ˆæ­¤è¯æ˜¯è®¤çœŸçš„ï¼‰
 
+â€¢å—¯å—¯ï¼Œä½ åº”è¯¥å…ˆå­¦ä¹ ä»€ä¹ˆæ˜¯æœªæ¥çš„å…±è¯†ç½‘ç»œblockchainä»¥åŠä¸ºä»€ä¹ˆmailtopiaä¼šæ˜¯å”¯ä¸€çš„å…¬æœ‰é“¾ã€ç‰©è”ç½‘é“¾
 
+â€¢å­¦ä¹ äº†ï¼Œå› ä¸ºå®ƒç”¨æœ€æ–°çš„mailtoåè®®ç©¿é€äº†æ¬¡å…ƒå£ï¼Œä¿æŠ¤äº†ä½ çš„ç‰©å±æƒç›Šï¼Œä¸åœ¨ä¹å¤©é•¿åœ°ä¹…ï¼Œé€€äº†ä¹Ÿæ˜¯æ›¾ç»æ‹¥æœ‰
 
-ÒÔ¹±Ï×ÊµÊ©ºÏÔ¼£¬Ô½½Ó½üÊµÏÖµÇÔÂÄ¿µÄ£¬ºÏÔ¼ÒâÒå¡¢¼ÛÖµ»áÔ½´ó£¬·´Ö®ºÏÔ¼µÍÃÔ
+PS. ç™»é™†ä¸Šæœˆçƒï¼Œå¯ä¸æ­¢äºæ€æƒ³ï¼Œè¿˜åœ¨äºè¡ŒåŠ¨åŠ›ã€‚åŠ¨æ‰‹èµ·æ¥ã€å¼€åŠ¨è„‘è¢‹ï¼Œç”¨è·¨è¶Šåƒå¹´çš„æ€ç»´ï¼Œä¸€ç‚¹ä¸€æ»´åšç°åœ¨çš„äº‹ã€‚æˆ‘ä»¬é€‰æ‹©å¤ªç©ºä¹‹è¡Œæœ€æœ‰ç”¨çš„é¢†åŸŸè¿›è¡Œåˆ›é€ ï¼Œä»¥å°å°æˆæœä½œä¸ºæŠ›ç –å¼•ç‰ï¼Œäººäººéƒ½æ˜¯ç§‘å­¦å®¶ã€‚
 
+â€¢A. å¢æåˆ¶é€ æŠ€æœ¯ï¼ˆé€šç§°3Dæ‰“å°ï¼‰åœ¨æœªæ¥å¤ªç©ºé¢†åŸŸå¿…ä¼šå¾—åˆ°ååˆ†å¹¿æ³›åº”ç”¨â€”â€”æƒ³æƒ³çœ‹çœ‹ï¼Œåœ¨æ˜Ÿé™…é—´èˆªè¡Œç‰©èµ„ç¼ºä¹ï¼Œå¤§é‡ä¸ªæ€§åŒ–ç‰©å“éœ€è¦å°±åœ°å–æéšæœºæ‰€ç”¨ã€‚åº”ç”¨é¢†åŸŸç»ä¸æ­¢äºå¤ªç©ºé£Ÿå“æ‰“å°ã€å»ºç­‘ç‰©æ‰“å°ã€é›¶ä»¶æ‰“å°ï¼Œæ›´åœ¨æ¼«é•¿å¤ªç©ºæ—…ç¨‹çš„åŒ»ç–—æ•‘æŠ¤ã€å™¨å®˜ä¿®å¤ã€ä¾›åº”æ›¿æ¢æœ‰ç€é‡è¦ä½œç”¨ã€‚
 
+æœˆå°˜3Dæ‰“å°æœºï¼Œæœªæ¥å°±åœ°å–æçš„é©»æœˆåˆ©å™¨
 
-²ûÊöÀíÂÛ£ºÌ½ÔÂ¡¢µÇÔÂ¡¢×¤ÔÂ¼Æ»®£¬ĞÅÏ¢ÏÈĞĞ¡ª¡ªÊ×ÏÈ£¬ĞèÒª°ÑÔÂÇò±ä³ÉÒ»¸öÖÇ»ÛĞÇÇò
+æˆ‘ä»¬å·²ç»ä¾›åº”ä¸­å›½å’ŒåŠ æ‹¿å¤§ç§‘ç ”æµ‹è¯•ç”¨çš„å¤šå°è®¾å¤‡ï¼Œæ­£æ˜¯ç€æ‰‹äºç‰¹ç§ææ–™çš„å¢æåˆ¶é€ ï¼Œæœ€ç»ˆå°±èƒ½å®ç°ä»¥æœˆå°˜åšæè´¨çš„3Dæ‰“å°ç›®æ ‡ã€‚
 
-¡°È»ºóÄØ£¿¡±/¡°ÎŞ·ìµÄÎïÎï»¥Áª²ÅÄÜÕæÕıÊµÏÖÎŞÈË¼İÊ»°¡¡¢²ÅÄÜÓĞÎŞÈËµÄ¹¤³Ì¶ÓĞ­Í¬ÎªÄãÊ©¹¤´òÔìÄã¼ÒºÀÕ¬Âï~¡±/¡°»¹ÓĞµØÔÂÊÖ»ú¡¢¹²Ê¶µÄµØÔÂºÅ¶Î¡£ÕâÑù£¬ĞÅÏ¢ÁªÍøÒÔºó¾Í¿ÉÒÔ¸øÔÂÇòĞ¡³µÍ¨µç»°ÁË£¬Ğ¡³µ¼äÒ²¿ÉÒÔ²»ÓÃÇĞ»»¶ø»¥ÏàÍ¨µç»°±ÜÃâ×²³µÊµÏÖ±ÕÑÛ´©Ëó¼İÊ»À²£¡¡±
-¡°Å¶£¬ÄÇÎÒÃ÷°×ÁË£¬Ò»¸öÔÂ×åµÄÈ«Ô±ÖÇ»ÛÄı½áµÄ´ÏÃ÷ĞÇÇò£¬ÔËĞĞÔÚµØÔÂ¼äµÄ¹«ÓĞÇø¿éÁ´¡¢¹²Ê¶ĞÅÏ¢Á´¡£¡±
+â€¢B. å¦ä¸€ä¸ªé¢†åŸŸæ˜¯AIï¼Œå…¶æ„ä¹‰å¹¶ä¸æ­¢äºç§‘å¹»ç”µå½±é‡Œçš„æ™ºèƒ½æ§åˆ¶ã€è‡ªä¸»èˆªè¡Œï¼Œè¿˜åœ¨äºç»™æ¼«é•¿èˆªç¨‹åˆ›é€ ç²¾ç¥é£Ÿç²®ä¸å¿ƒç†æ…°ç±
 
+å­¤å•çš„æ—…ç¨‹ä¸­ï¼Œå®‡èˆªå‘˜éœ€è¦æœ‰äººèŠå¤©ã€è°ˆå¿ƒã€æ’é£ã€è®²æ•…äº‹ï¼Œè¿™é‡Œçš„èƒŒåå¯æ˜¯ä¸€ç³»åˆ—ä¸¥è‚ƒã€ä¸¥è°¨çš„ç§‘å­¦å˜›ã€‚ æ€»ä¹‹å‘¢ï¼Œå¯¹å¤§å¯¹æ•°äººæ¥è¯´ï¼Œå¤ªç©ºä¸­è¿˜æœ‰å¤ªå¤šä¸å¯çŸ¥å› ç´ ç­‰å¾…æš´éœ²ï¼Œç­‰å®Œå…¨å®‰å…¨äº†ï¼Œå„ä¸ªå›°éš¾éƒ½æœ‰å¯¹ç­–äº†å†ä½ä¸Šå»ã€‚åœ¨åŸºç¡€è®¾æ–½å®Œå–„ä¹‹å‰ã€åœ¨ç‰©è”å…ˆé£å›¢èƒ½çŸ¥å·±çŸ¥å½¼æŠµæŠ—å®‡å®™å±å®³å‰ï¼Œåº”è¯¥åªæ˜¯æ¢é™©è€…çš„ä¹å›­å’Œæ€æƒ³æ²™ç›˜çš„é˜µåœ°ã€‚
 
+æˆ‘ä»¬å°è¯•ç”¨æ­å»ºçš„å›¾çµè®¾å¤‡ç½‘è¾“å‡ºæ–‡ç« ï¼Œç¤ºèŒƒAIä½“çš„æ•…äº‹é£æ ¼ã€Šåœ°çƒç«¥è¯ç™¾ç¯‡ã€‹ï¼Œç­‰ç€æ›´å¤šè®¾å¤‡ã€æ›´ä½³ç®—æ³•æ¥ç»­å†™ã€Šç™»æœˆè®°ã€‹
 
+https://www.hongxiu.com/chapter/15514163705464404/42514485734769709
 
-ÍÛ£¬ÎÒºÃÏëÂòÒ»·İ£¬ÂòÒ»·İ¶ÔÌ«¿Õ½øÈ¡µÄÖ´Äî¡¢ÎÒ¾ÍÓĞ¶¯Á¦ºÃºÃÑ§Ï°À²¡£¡£¡£
-àÅ---£¬µ«ÊÇÎÒÅÂ±»¿Ó~~~ÏÖÔÚ¿ÓÈËµÄ¼Ò»ï¿É»¹²»ÉÙÅ¶£¡
-Ê²Ã´£¡É¶×Ó£¿Ñ½£¿£¡ÊÇ50ÒÚÄêËæÊ±ÍË¿î±£Ö¤°¡£¨ÕâÀïÓĞ´ó°ëÊÇÈÏÕæµÄ£©
-àÅàÅ£¬ÄãÓ¦¸ÃÏÈÑ§Ï°Ê²Ã´ÊÇÎ´À´µÄ¹²Ê¶ÍøÂçblockchainÒÔ¼°ÎªÊ²Ã´mailtopia»áÊÇÎ¨Ò»µÄ¹«ÓĞÁ´¡¢ÎïÁªÍøÁ´
-Ñ§Ï°ÁË£¬ÒòÎªËüÓÃ×îĞÂµÄmailtoĞ­Òé´©Í¸ÁË´ÎÔª±Ú£¬±£»¤ÁËÄãµÄÎïÊôÈ¨Òæ£¬²»ÔÚºõÌì³¤µØ¾Ã£¬ÍËÁËÒ²ÊÇÔø¾­ÓµÓĞ
-PS. µÇÂ½ÉÏÔÂÇò£¬¿É²»Ö¹ÓÚË¼Ïë£¬»¹ÔÚÓÚĞĞ¶¯Á¦¡£¶¯ÊÖÆğÀ´¡¢¿ª¶¯ÄÔ´ü£¬ÓÃ¿çÔ½Ç§ÄêµÄË¼Î¬£¬Ò»µãÒ»µÎ×öÏÖÔÚµÄÊÂ¡£ÎÒÃÇÑ¡ÔñÌ«¿ÕÖ®ĞĞ×îÓĞÓÃµÄÁìÓò½øĞĞ´´Ôì£¬ÒÔĞ¡Ğ¡³É¹û×÷ÎªÅ××©ÒıÓñ£¬ÈËÈË¶¼ÊÇ¿ÆÑ§¼Ò¡£
+â€¢C.å¤ªç©ºé—´ç†åŒ–æ¡ä»¶å¤ªä¸ä¸€æ ·ï¼Œå¤§å¤šæ•°æ ¹æ®äººæ‹©ç†è®ºå‘å±•å‡ºçš„åŒ»ç–—ç§‘å­¦å°†ä¼šåœ°å¤©å·®åˆ«ï¼Œä»åŸºç¡€åˆ°å®è·µéƒ½å°†åˆ†æ”¯å¤„ä¸€ä¸ªå¤§é¢†åŸŸï¼Œé‚£ä¹ˆæ²¡æœ‰å¥å£®ä¹è§‚çš„å®‡èˆªå‘˜å¦‚ä½•å»å®Œæˆæ·±ç©ºä»»åŠ¡å‘¢ï¼Ÿä¸æ˜¯å¤ªç®€å•ï¼Œè€Œæ˜¯å¤ªéš¾äº†ï¼
 
-A. Ôö²ÄÖÆÔì¼¼Êõ£¨Í¨³Æ3D´òÓ¡£©ÔÚÎ´À´Ì«¿ÕÁìÓò±Ø»áµÃµ½Ê®·Ö¹ã·ºÓ¦ÓÃ¡ª¡ªÏëÏë¿´¿´£¬ÔÚĞÇ¼Ê¼äº½ĞĞÎï×ÊÈ±·¦£¬´óÁ¿¸öĞÔ»¯ÎïÆ·ĞèÒª¾ÍµØÈ¡²ÄËæ»úËùÓÃ¡£Ó¦ÓÃÁìÓò¾ø²»Ö¹ÓÚÌ«¿ÕÊ³Æ·´òÓ¡¡¢½¨ÖşÎï´òÓ¡¡¢Áã¼ş´òÓ¡£¬¸üÔÚÂş³¤Ì«¿ÕÂÃ³ÌµÄÒ½ÁÆ¾È»¤¡¢Æ÷¹ÙĞŞ¸´¡¢¹©Ó¦Ìæ»»ÓĞ×ÅÖØÒª×÷ÓÃ¡£
 
-
-ÔÂ³¾3D´òÓ¡»ú£¬Î´À´¾ÍµØÈ¡²ÄµÄ×¤ÔÂÀûÆ÷
-
-ÎÒÃÇÒÑ¾­¹©Ó¦ÖĞ¹úºÍ¼ÓÄÃ´ó¿ÆÑĞ²âÊÔÓÃµÄ¶àÌ¨Éè±¸£¬ÕıÊÇ×ÅÊÖÓÚÌØÖÖ²ÄÁÏµÄÔö²ÄÖÆÔì£¬×îÖÕ¾ÍÄÜÊµÏÖÒÔÔÂ³¾×ö²ÄÖÊµÄ3D´òÓ¡Ä¿±ê¡£
-
-B. ÁíÒ»¸öÁìÓòÊÇAI£¬ÆäÒâÒå²¢²»Ö¹ÓÚ¿Æ»ÃµçÓ°ÀïµÄÖÇÄÜ¿ØÖÆ¡¢×ÔÖ÷º½ĞĞ£¬»¹ÔÚÓÚ¸øÂş³¤º½³Ì´´Ôì¾«ÉñÊ³Á¸ÓëĞÄÀíÎ¿¼®
-¹Âµ¥µÄÂÃ³ÌÖĞ£¬Óîº½Ô±ĞèÒªÓĞÈËÁÄÌì¡¢Ì¸ĞÄ¡¢ÅÅÇ²¡¢½²¹ÊÊÂ£¬ÕâÀïµÄ±³ºó¿ÉÊÇÒ»ÏµÁĞÑÏËà¡¢ÑÏ½÷µÄ¿ÆÑ§Âï¡£ ×ÜÖ®ÄØ£¬¶Ô´ó¶ÔÊıÈËÀ´Ëµ£¬Ì«¿ÕÖĞ»¹ÓĞÌ«¶à²»¿ÉÖªÒòËØµÈ´ı±©Â¶£¬µÈÍêÈ«°²È«ÁË£¬¸÷¸öÀ§ÄÑ¶¼ÓĞ¶Ô²ßÁËÔÙ×¡ÉÏÈ¥¡£ÔÚ»ù´¡ÉèÊ©ÍêÉÆÖ®Ç°¡¢ÔÚÎïÁªÏÈÇ²ÍÅÄÜÖª¼ºÖª±ËµÖ¿¹ÓîÖæÎ£º¦Ç°£¬Ó¦¸ÃÖ»ÊÇÌ½ÏÕÕßµÄÀÖÔ°ºÍË¼ÏëÉ³ÅÌµÄÕóµØ¡£
-
-
-ÎÒÃÇ³¢ÊÔÓÃ´î½¨µÄÍ¼ÁéÉè±¸ÍøÊä³öÎÄÕÂ£¬Ê¾·¶AIÌåµÄ¹ÊÊÂ·ç¸ñ¡¶µØÇòÍ¯»°°ÙÆª¡·£¬µÈ×Å¸ü¶àÉè±¸¡¢¸ü¼ÑËã·¨À´ĞøĞ´¡¶µÇÔÂ¼Ç¡·
-
-http://www.jjwxc.net/onebook.php?novelid=4381453
-
-
-C.Ì«¿Õ¼äÀí»¯Ìõ¼şÌ«²»Ò»Ñù£¬´ó¶àÊı¸ù¾İÈËÔñÀíÂÛ·¢Õ¹³öµÄÒ½ÁÆ¿ÆÑ§½«»áµØÌì²î±ğ£¬´Ó»ù´¡µ½Êµ¼ù¶¼½«·ÖÖ§´¦Ò»¸ö´óÁìÓò£¬ÄÇÃ´Ã»ÓĞ½¡×³ÀÖ¹ÛµÄÓîº½Ô±ÈçºÎÈ¥Íê³ÉÉî¿ÕÈÎÎñÄØ£¿²»ÊÇÌ«¼òµ¥£¬¶øÊÇÌ«ÄÑÁË£¡
-¿ªÔ´ĞÔÏîÄ¿µÄ´úÂë²Ö£ºhttps://github.com/MicIOE
-
-
-
-
-=========================================
-
-This project is released in Chinese and English for the information moon and lunar landing plan. It can be purchased on both Alibaba and Taobao.±¾Œ£°¸ÊÇĞÅÏ¢ÔÂÇò¡¢µÇÔÂ¼Æ»®µÄÏîÄ¿ÖĞÓ¢ÎÄ·¢²¼£¬ÔÚ°¢Àï°Í°ÍºÍÌÔ±¦¶¼Ò»Ñù¿ÉÒÔ²ÎÓëhttps://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.22be1debIo2V06&ft=t&id=610875001312
-Translation of papers to Google Translate for reference only.ÂÛÎÄ·­ÒëÎª¹È¸è·­Òë£¬½ö×÷Îª²Î¿¼
-This is the most beautiful gift in the world. It is a gift for loved ones and friends, not to mention the vocabulary words that have long been attached to romance¡¢eternity¡¢loyalty¡¢beauty and uniqueness.
-ÕâÊÇÊÀ½çÉÏ×îÃÀºÃµÄÀñÎï£¬ÊÇÔùËÍÇ×ÈËÅóÓÑÕæÇéÖ®Îï£¬¸ü²»ÓÃËµÔçÒÑÒÀ¸½ÀËÂş¡¢ÓÀºã¡¢ÖÒ³Ï¡¢ÃÀÀö¡¢¶ÀÒ»ÕâÑùµÄ´Ê»ã×ÖÑÛ
- 
-https://...
-
-
-ÊÇ·ñÔøã¿ã½£¬ÓµÓĞÒ»·İÊôÓÚ×Ô¼ºµÄÔÂÁÁĞÇÇò±íÃæ£¬ÓÃÓÚÌ½Ë÷¿ª·¢
-ÊÇ·ñÔøã¿ã½£¬ÓµÓĞÒ»·İÊôÓÚ×Ô¼ºµÄÔÂÁÁĞÇÇò±íÃæ£¬ÓÃÓÚÌ½Ë÷¿ª·¢
- 
-Have you ever had a surface of your own moon planet for exploration and development?
-As long as you have a consensus contract, you can get the 120,150 square meters of the Moon Planet's own privilege. Write your dreams on this clean white paper - when the moon is there, you can have it now.Ö»ÒªÒ»·İ¹²Ê¶ºÏÔ¼£¬ÄúÄÜ»ñÈ¡ÔÂÁÁĞÇÇò120/150Æ½·½Ã×ÊôÓÚ×Ô¼ºµÄ×ğ¹óÈ¨Êô£¬ÔÚÕâÆ¬½à¾»°×Ö½´¦ÊãĞ´×Ô¼ºÃÎÏë¡ª¡ªÃ÷ÔÂ¼¸Ê±ÓĞ£¬ÏÖÔÚÄÜÓµÓĞ
- Funding project: CAD $ 39. The funder is included in the list of first-time thankers. It will also be permanently recorded in the cornerstone contract. The fund will be used for project use (unlimited share).
- ×ÊÖú×¨°¸£º39¼Ó±Ò£¬×ÊÖúÕßÁĞÈëÊ×·¢¸ĞĞ»ÕßÃûµ¥£¬Ò²»áÓÀ¾Ã¼ÇÂ¼ÔÚ»ùÊ¯ºÏÔ¼ÖĞ£¬»ù½ğÈ«²¿ÓÃÓÚÏîÄ¿Ê¹ÓÃ£¨·İ¶î²»ÏŞ£©¡£
-
- Early bird price: One copy of 999-year ownership contract with 61.8% of 120 square meters on the moon, accessory package: consensus box * 1, moon map * 1, warm winter commemorative paper music greeting card * 1 (1 account and 1 address can be taken once, the maximum number of copies is 10, the attachment package is sent 1 to avoid consensus, and multiple shots will be shipped with a limit of 10) CAD $ 399
- ÔçÄñ¼Û¸ñ£ºÔÂÇò120Æ½·½Ã×61.8%µÄ999ÄêÈ¨ÊôºÏÔ¼Ò»·İ£¬¸½¼ş°ü£º¹²Ê¶ºĞ×Ó*1£¬ÔÂ±íµØÍ¼*1£¬Å¯¶¬¼ÍÄî°æÖ½ÖÊÒôÀÖºØ¿¨*1£¨1ÕËºÅ1¸öµØÖ·ÏŞÅÄ1´Î£¬·İÊı×î¶àÎª10£¬¸½¼ş°ü¶¼·¢ËÍ1·İ±ÜÃâ¹²Ê¶¼¯ÖĞ£¬¶àÅÄÒÔ10ÎªÉÏÏŞ·¢»õ£©399Ôª¼Ó±Ò
-
- New Year Price: One copy of 999-year ownership contract with 61.8% of 150 square meters on the moon, accessory package: Consensus box * 1, Lunar holographic 3D printer * 1 (IoT version), moon map * 1, warm winter commemorative paper music greeting card * 1 (1 account, 1 address, limited to 1 shot, the maximum number of copies is 10, the accessory package sends 1 copy to avoid consensus, multiple shots will be shipped with a limit of 10) CAD $ 599
- ĞÂ´º¼Û¸ñ£ºÔÂÇò150Æ½·½Ã×61.8%µÄ999ÄêÈ¨ÊôºÏÔ¼Ò»·İ£¬¸½¼ş°ü£º¹²Ê¶ºĞ×Ó*1£¬ÔÂÇòÈ«Ï¢3D´òÓ¡»ú*1£¨IoT°æ£©Ò»Ì×£¬ÔÂ±íµØÍ¼*1£¬Å¯¶¬¼ÍÄî°æÖ½ÖÊÒôÀÖºØ¿¨*1£¨1ÕËºÅ1¸öµØÖ·ÏŞÅÄ1´Î£¬·İÊı×î¶àÎª10£¬¸½¼ş°ü¶¼·¢ËÍ1·İ±ÜÃâ¹²Ê¶¼¯ÖĞ£¬¶àÅÄÒÔ10ÎªÉÏÏŞ·¢»õ£©599Ôª¼Ó±Ò
- 
-https://...
-
-
-ĞÂÌ½ÔÂÊ±´úÀ´ÁÙ£¬Î´À´µÄÄúÈ±Ï¯ÁËÂğ
-ĞÂÌ½ÔÂÊ±´úÀ´ÁÙ£¬Î´À´µÄÄúÈ±Ï¯ÁËÂğ
- 
-The new moon exploration era is coming. Are you absent in the future?
-Baby is not a metaphysical product. It is a digital smart contract that encapsulates real ownership. It records the hard-to-tweak ownership with distributed dynamic data accounts, allowing you to take the first step in exploring the universe and finally obtain your own moon ownership. £¨The first 999 years after the contract owner returned to Earth on 365 days£©.±¦±´²¢·ÇĞÎ¶øÉÏµÄ²úÆ·£¬ÊÇ·â×°ÓĞÕæÊµÈ¨ÊôµÄÊı×ÖÖÇÄÜºÏÔ¼£¬ÒÔ·Ö²¼Ê½¶¯Ì¬Êı¾İÕËÄ¿¼ÇÂ¼ÄÑÒÔ´Û¸ÄµÄËùÓĞÈ¨£¬ÈÃÄã¼áÊµÂõ³öÌ½ÇóÓîÖæµÄµÚÒ»²½£¬×îÖÕ»ñµÃÊôÓÚ×Ô¼ºµÄÔÂ±íÈ¨Êô£¨ÒÔºÏÔ¼ËùÓĞÕßÖĞµÚÒ»¸ö×¤ÔÂ365ÌìÒÔÉÏ°²·µ»ØµØÇòºóµÄ999Äê£©¡£
-The principle of the contract is: the contract intent recognizes the contractual rights established by the prior contract owner, and then practices the purchase of the homogeneous contract £¨which also recognizes that the purchase expenditure is completely used for the peaceful development of the human deep space business£©, with a consensus The way to write to the decentralized database books and continue to broadcast £¨computer blockchain principle£©. When the consensus reaches a certain amount, the higher the dispersion, the more stable the contract and the tampering.ºÏÔ¼Ô­ÀíÎª£ººÏÔ¼ÒâÏòÕßÈÏ¿ÉÔÚÏÈºÏÔ¼ÓµÓĞÕßËùÈ·Á¢µÄºÏÔ¼È¨Òæ£¬½ø¶øÊµ¼ùÍ¬ÖÊºÏÔ¼µÄ¹ºÈë£¨ÒàÈÏ¿É´Ë¹ºÂòÖ§³öÍêÈ«ÓÃÓÚºÍÆ½·¢Õ¹ÈËÀàÉî¿ÕÊÂÒµ£©£¬ÒÔÒ»ÖÖ¹²Ê¶½ÓĞøµÄ·½Ê½Ïò·ÖÉ¢µÄÊı¾İ¿âÕË±¾Ö´ĞĞÈ¨ÒæĞ´Èë²¢³ÖĞø¹ã²¥£¨¼ÆËã»úÇø¿éÁ´Ô­Àí£©¡£µ±¹²Ê¶µÖ´ïÒ»¶¨Á¿£¬ÀëÉ¢¶ÈÔ½¸ß¡¢ºÏÔ¼Ô½ÎÈ¹Ì¶ø²»¿É´Û¸Ä¡£
-¡¾Note: As a historical and future consensus on human society, the contract retains redundant parts of the past and future human contribution to the space industry. Its own/relatives reach more than 51% of the consensus, which is naturally owned and can be automatically One distribution contract¡¿
-¡¾×¢£º×÷Îª³Ğ½ÓÈËÀàÉç»áµÄÀúÊ·ÓëÎ´À´¹²Ê¶£¬ºÏÔ¼±£Áô¼ÈÍùºÍ½«À´ÈËÀà¶ÔÌ«¿ÕÊÂÒµ×ö³ö¹±Ï×ÕßµÄÈßÓà²¿·Ö£¬Æä±¾ÈË/Ç×ÊôÔÚ¹²Ê¶¶È´ï³É51%ÒÔÉÏ£¬¼´ÎªÌìÈ»ÓµÓĞ£¬¿É×Ô¶¯·ÖÅäºÏÔ¼Ò»·İ¡¿
- 
-https://...
-
-
-¹²Ê¶Ğ¡ºĞ´úÄãåÛÓÎÌ«¿Õ
-¹²Ê¶Ğ¡ºĞ´úÄãåÛÓÎÌ«¿Õ
- 
-Consensus box for you to travel in space
-The first batch of 88,000 contracts was launched as the cornerstone contract. The follow-up contracts must have no such cost-effectiveness. The accessory package with the purchase and delivery has a consensus box. In this way, you will come to a lunar journey that says you will leave. ^Ê×Åú¹²ÍÆ³ö88Íò·İºÏÔ¼×÷Îª»ùÊ¯ºÏÔ¼£¬ºóĞøºÏÔ¼Ò»¶¨ÎŞ´Ë»®Ëã£¬¹ºÈë¼Ä³öµÄ¸½¼ş°üÖĞ´øÒ»¸ö¹²Ê¶ºĞ×Ó¡£ÕâÑù£¬Äã¾ÍÀ´Ò»³¡Ëµ×ß¾Í×ßµÄÔÂÇòÂÃ³Ì°É^
- 
-https://...
-
-
-ÊÇ¸öÒÀ¾İºÏÔ¼Ô¤ÖÃµÄ×¤ÔÂ¼Æ»®£¬¾­¹ıÅ¬Á¦»ñµÃµÄ±ÈÔ¤ÏëµÄ¸ü¶à
-ÊÇ¸öÒÀ¾İºÏÔ¼Ô¤ÖÃµÄ×¤ÔÂ¼Æ»®£¬¾­¹ıÅ¬Á¦»ñµÃµÄ±ÈÔ¤ÏëµÄ¸ü¶à
- 
-It is a preset month-based plan based on the contract, and more than expected
- 
-https://...
-
-
-ÒÔ¹±Ï×¶È»ñÈ¡ºÏÔ¼£¬Ô½½Ó½üÊµÏÖµÇÔÂÄ¿µÄ£¬ºÏÔ¼ÒâÒå¡¢¼ÛÖµ»áÔ½´ó£¬·´Ö®ºÏÔ¼µÍÃÔ
-ÒÔ¹±Ï×¶È»ñÈ¡ºÏÔ¼£¬Ô½½Ó½üÊµÏÖµÇÔÂÄ¿µÄ£¬ºÏÔ¼ÒâÒå¡¢¼ÛÖµ»áÔ½´ó£¬·´Ö®ºÏÔ¼µÍÃÔ
- 
-To obtain a contract with contribution, the closer to achieving the purpose of landing on the moon, the greater the meaning and value of the contract, and vice versa.
-Ah, why is it 999, don't you say that the moon is not eternal?ß×£¬ÎªÊ²Ã´ÊÇ999ÄØ£¬Äã²»ÊÇËµÔÂÇò²»ÊÇÓÀºãµÄÂğ£¿
-Scientists have determined that the Moon and Earth are about 4.6 billion years old, and the Solar System has about 5 billion years. There is nothing eternal in the world. Taking the history of the Earth and the Moon as a day, human civilization of 5,000 years is only 0.1 seconds. It is the most appropriate method to use the mapping method to project the existing social system on the information layer, so the contract reflects the flexibility of the cornerstone consensus for 999 years.¾­¹ı¿ÆÑ§¼Ò²â¶¨£¬ÔÂÇòÓëµØÇòµÄÄêËê¶¼Ô¼46ÒÚÄê×óÓÒ£¬Ì«ÑôÏµ»¹ÓĞ´óÔ¼50ÒÚÄêÊ±¼ä¡£ÊÀ½çÉÏ²»´æÔÚÓÀºã²»±äµÄ¶«Î÷¡£ÒÔµØÔÂÀúÊ·ÊÓÎªÒ»Ìì£¬ÈËÀàÎåÇ§ÄêÎÄÃ÷½öÈôÏàµ±ÓÚ0.1Ãë¡£ÓÃÓ³Éä·½Ê½ÔÚĞÅÏ¢²ãÍ¶Éä¼ÈÓĞÉç»áÖÆ¶ÈÊÇ×îºÏÊÊµÄ·½·¨ÑÓĞø£¬Òò´ËºÏÔ¼ÒÔ999ÄêÀ´ÌåÏÖ»ùÊ¯¹²Ê¶µÄÁé»îĞÔ¡£
-But if you think that the human aerospace footprint and way of thinking remained only on the moon for 999 years after it was stationed on the moon, it is likely to be wrong. After 999, based on the new interstellar consensus, it is not impossible to re-appoint it to be permanent-before and after the moon landing, we must carefully develop (information resources) and make the best application in a limited time, which can produce the greatest value.µ«ÈôÈÏÎªÔÚ×¤ÔúÔÂÇòÖ®ºóµÄ999Äê¼ä£¬ÈËÀàµÄÓîº½×ã¼£ÓëË¼Î¬·½Ê½ÒÀ¾É½ö½ö¹ÌÊØÔÚÔÂÇòÄÇºÜ¿ÉÄÜ¾Í´íÎóÁË¡£999ÄêÖ®ºóÒÔĞÇ¼ÊĞÂ¹²Ê¶×öÎª»ù´¡£¬ÖØÔ¼¶¨ÎªÓÀ¾ÃÒ²²»ÊÇÃ»¿ÉÄÜ¡ª¡ªµÇÔÂÇ°ºó£¬¶¼ÒªÈÏÕæ¿ª·¢£¨ĞÅÏ¢×ÊÔ´£©£¬ÒÔÓĞÏŞµÄÊ±¼ä×ö×î¼ÑÓ¦ÓÃ£¬¿ÉÒÔ²úÉú¼ÛÖµµÄ×î´ó¡£
- 
-https://...
-
-
-ºÏÔ¼ÒâÒåºÎÔÚ¡¢ÎªÉ¶Ö»ÓĞ61.8%µÄÈ¨ÊôÄØ£¿
-ºÏÔ¼ÒâÒåºÎÔÚ¡¢ÎªÉ¶Ö»ÓĞ61.8%µÄÈ¨ÊôÄØ£¿
- 
-What is the meaning of the contract, and is it only 61.8% of the ownership?
-What is the significance of making this contract?
- ÖÆ¶¨´ËºÏÔ¼£¬ÆäÒâÒåºÎÔÚ£¿ 
-The contract was developed to stimulate people's desire for space exploration. Imagine: If you have a poem and a place far away in the night sky, then your look will naturally translate into practical action. The funds of the contract will be used for the peaceful development of human beings in the near-Earth orbit and even deep space, and the realization of the monthly plan and the lunar information plan will be promoted. Although the box is simple, it can carry the consensus of everyone and the realization of the information network. It builds the moon into a smart planet with information value and leads to the consensus of peaceful use and development£¨I feel that on the earth, it is inevitable that the real Internet of Everything cannot be realized.£©.ºÏÔ¼ÖÆ¶¨ÊÇÎªÁË¼¤·¢ÈËÃÇ¶ÔÌ«¿ÕÌ½Ë÷µÄÓûÍû¡ª¡ªÊÔÏë£ºÈç¹û×Ô¼º¾ÍÓĞ¸öÊ«ÓëÔ¶·½ÔÚÒ¹¿ÕÌ÷Ä¿¿É¼°µÄµØ·½£¬ÄÇÃ´ÄãµÄÑöÍû¾Í»á×ÔÈ»×ª»¯ÎªÊµ¼ùµÄĞĞ¶¯Á¦¡£¶øºÏÔ¼µÄ×Ê½ğ½«È«²¿ÓÃÓÚÈËÀàºÍÆ½·¢Õ¹½üµØ¹ìµÀÄËÖÁÉî¿ÕÊÂÒµÓÃÍ¾£¬ÍÆ½ø×¤ÔÂ¼Æ»®¡¢ÔÂÇòĞÅÏ¢¼Æ»®µÄÊµÏÖ¡£ºĞ×ÓËä¼òÂª£¬µ«ËüÁªÍøºó¿ÉÒÔ³ĞÔØËùÓĞÈËµÄ¹²Ê¶ÒÔ¼°ĞÅÏ¢ÍøµÄÊµÏÖ£¬°ÑÔÂÇòÊ×ÏÈ½¨ÎªÒ»¸ö¾ßÓĞĞÅÏ¢¼ÛÖµµÄÖÇ»ÛĞÇÇò£¬²¢µ¼ÏòºÍÆ½ÀûÓÃÓë¿ª·¢µÄ¹²Ê¶£¨ÓĞ¸ĞÓÚÔÚµØÇòÉÏ¿ÉÊÇ±ØÈ»ÎŞ·¨ÊµÏÖÕæÕıµÄÍòÎï»¥Áª£©
-Why is the contract only allocated 61.8% of the ownership?
-ÎªºÎºÏÔ¼Ö»·ÖÅäÓĞ61.8%µÄÈ¨Êô£¿
-It is clear that the earth is the shared wealth and homeland of all mankind, and the moon is also the shared wealth and homeland of all mankind. With this consensus, we have developed a contract on the moon to map human society models and lead development. Exploring and developing in the blank monthly table, distinguishing the interface between social wealth and shared wealth, we must comprehensively consider the reasonable proportion of feedback to achieve a more satisfactory consensus result, and then inspire the enthusiasm for the month and development, accelerate the human being is too slow Space processÈËÃÇÇå³şÖªµÀµØÇòÊÇÈ«ÈËÀàµÄ¹²ÓĞ²Æ¸»Óë¼ÒÔ°£¬¶øÔÂÇòÒ²ÊÇÈ«ÈËÀà¹²ÓĞ²Æ¸»Óë¼ÒÔ°£¬ÒÔ´Ë¹²Ê¶£¬ÎÒÃÇÔÚÔÂÇòÉÏÓ³ÉäÈËÀàÉç»áÄ£ĞÍµÄ°ì·¨ÖÆ¶¨ºÏÔ¼²¢µ¼Ïò¿ª·¢¡£ÔÚ¿Õ°×ÔÂ±í½øĞĞÌ½Ë÷¿ª·¢£¬Çø·ÖÉç»á²Æ¸»Óë¹²ÓĞ²Æ¸»½çÃæ£¬ÒªÈ«Ãæ¿¼ÂÇºÏÀíµÄ»ØÀ¡±ÈÀı²ÅÄÜÄ¥ºÏ³ö½ÏÔ²ÂúµÄ¹²Ê¶½á¹û£¬½ø¶ø¼¤Àø³ö×¤ÔÂÏòÍùÓë¿ª·¢ÈÈÇé£¬¼ÓËÙÈËÀàÒÑÊµÔÚÌ«ÓÚ»ºÂıµÄÌ«¿Õ½ø³Ì
-At present, there is no more reasonable and reasonable mathematical ratio than 0.618. Therefore, the cornerstone contract selects 61.8% as the balance value, so as to encourage the early pioneers, the later contracts will be more reasonable adjustment based on actual feedback - of course, 880,000 copies. The maximum value of the cornerstone contract is 0.132¡Á10^7 square kilometers (according to human nature, it will be less than this value). It only accounts for 3.79¡Á10^7 square kilometers of the lunar surface, about 3.48% (the monthly table is covered with undulating potholes, according to calculation The total number of craters with a diameter of more than 1 km is more than 30,000, which is 7-10% of the surface area of the moon. The actual spreading area will cause this value to be much less than 3.48%, and the estimate will be less than 1%). And the universe is so big, everyone wants to see it, the opportunity will be more, stepping on the paving of the predecessors, sailing the stars and the sea, it is the most authentic portrayal of the predecessors planting trees and people.ÔÚÄ¿Ç°»¹ÕÒ²»µ½±È0.618¸üÓÅÃÀºÏÀíµÄÊıÑ§±ÈÀı£¬Òò´Ë»ùÊ¯ºÏÔ¼Ñ¡È¡61.8%ÎªÆ½ºâÊıÖµ£¬ÒÔ×Ê¶ÔÔçÆÚÏÈĞĞÕßµÄ¹ÄÀø£¬ºóÆÚºÏÔ¼±Ø½«¸ù¾İÊµ¼Ê·´À¡½øĞĞ¸üºÏÀíµ÷Õû¡ª¡ªµ±È»88Íò·İ»ùÊ¯ºÏÔ¼È¡×î´óÖµ0.132¡Á10^7Æ½·½Ç§Ã×£¨¸ù¾İÈËÖ®ÌìĞÔ£¬»áĞ¡ÓÚ´ËÊıÖµºÜ¶à£©Ö»Õ¼ÔÂÇò±íÃæ3.79¡Á10^7Æ½·½Ç§Ã×£¬Ô¼3.48%£¨ÔÂ±í²¼ÂúÆğ·ü¿Ó¶´£¬¸ù¾İ²âËãÖ±¾¶´óÓÚ1¹«ÀïµÄ»·ĞÎÉ½×ÜÊı3Íò¶à¸ö,¼´Õ¼ÔÂÇò±íÃæ»ıµÄ7¡«10%£¬Êµ¼ÊÆÌÕ¹Ãæ»ı½«µ¼ÖÂ´ËÊıÖµÔ¶Ô¶Ğ¡ÓÚ3.48%£¬¹À²â½«Ğ¡ÓÚ1%£©¡£¶øÓîÖæÄÇÃ´´ó£¬´ó¼Ò¶¼ÏëÈ¥¿´¿´£¬»ú»á½«¸ü¶à£¬Ì¤×ÅÇ°ÈËµÄÆÌµæÑï·«Æôº½ĞÇ³½´óº££¬ÕıÊÇÇ°ÈËÖ²Ê÷ºóÈËÄÉÁ¹µÄ×îÕæÊµĞ´ÕÕ
- 
-https://...
-
-
-»ùÊ¯ºÏÔ¼ÓëÈ¨ÊôµÄ¹«Ì¯
-»ùÊ¯ºÏÔ¼ÓëÈ¨ÊôµÄ¹«Ì¯
- 
-Cornerstone contract and tenure
-Does the ownership have a public share?
- È¨ÊôÓĞ¹«Ì¯²¿·ÖÂğ£¿ 
-There are indeed 2.8% of the public share, which you can call a public share or libro-are, for setting up public facilities or public routes: you can be with a neighbor (perhaps a leader of a country, a famous elite, a well-known scientist, etc.) The leisurely owners will work together to plan how to build a space garden, a moon kindergarten, a bumper yard, an observatory, a weightless trampoline, a space golf course, etc. in the community. Of course, we can also explore the planning of the lunar community pathway and jointly develop a road for development. Meaningful name, or name your front door by your own name.È·ÓĞ2.8%µÄ¹«Ì¯²¿·Ö£¬Äã¿ÉÒÔ³ÆÖ®Îª¹«Ì¯»òlibro-are£¬ÓÃÓÚÉèÁ¢¹«ÖÚÉèÊ©»ò¹«¹²Â·Ïß£ºÄã¿ÉÒÔºÍÁÚ¾Ó£¨Ò²ĞíÊÇÄ³¹úÁìĞä¡¢ÖøÃû¾«Ó¢ÈËÊ¿¡¢ÖªÃû¿ÆÑ§¼ÒµÈ£©ÔÚÎŞµÈÏĞ±²ÒµÖ÷ÈºÒ»Æğ³ï»®ÈçºÎÔÚĞ¡ÇøÄÚ½¨ÉèÌ«¿ÕÌïÔ°¡¢ÔÂÍŞÓ×¶ùÔ°¡¢ÅöÅö³µ³¡¡¢ÌìÎÄÌ¨¡¢Ê§ÖØ±Ä´²Ì¨¡¢Ì«¿Õ¸ß¶û·ò³¡µÈ£¬µ±È»Ò²¿ÉÒÔÒ»ÆğÌ½ÌÖ¹æ»®ÔÂÇòÉçÇøÍ¨Â·£¬¹²Í¬¸ø¿ª±ÙµÄµÀÂ·È¡¸öÓĞÒâÒåµÄÃû×Ö£¬»òÓÃ×Ô¼ºÃû×ÖÃüÃûÃÅÇ°Ğ¡¾¶
-Encourage aid groups to buy together their idols, because the brains of FANS are often more romantic than the moon, and they have the same passion as the idols. They will become the outstanding scientists in the space industry or the founders of the lunar film base. , embellished into a unique landscape of the moon, is a favorite of parents who are concerned about the development of reality.¹ÄÀøÓ¦Ô®ÍÅÌåÒ²¿ÉÒÔ¸ø×Ô¼ºµÄÅ¼Ïñ¹ºÂòÒ»Æğ¹²Í¬½¨Éè£¬ÒòÎª·ÛË¿µÄÄÔ¶´ÍùÍù±ÈÔÂÁÁ»¹¾ßÀËÂş£¬Ò²ÓĞÓëÅ¼ÏñÍ¬Ò»ÎİéÜµÄÊµ¼ùÈÈ³À£¬Î´À´½«³ÉÎªÌ«¿ÕÊÂÒµµÄÓÅĞã¿ÆÑ§¼Ò»òÔÂÇòÓ°ÊÓ»ùµØµÄ´´½¨Õß£¬µã×º³ÉÎªÔÂÃæ¶ÀÌØµÄ·ç¾°£¬ÊÇ×¢ÖØÏÖÊµ·¢Õ¹µÄ¸¸Ä¸ËùÀÖ¼ûµÄ
-What is the cornerstone node and the cornerstone contract?
-Ê²Ã´ÊÇ»ùÊ¯½Úµã¡¢»ùÊ¯ºÏÔ¼£¿
-With the most decentralized nodes to store a consistent contractual ledger, anyone (not limited to the contract owner and IoT information participants) can check the ledger at any time to achieve the goal of transparency and consistency. 880,000 is the basic value that can be difficult to tamper with the initial dispersal purpose. Therefore, the first batch of 880,000 nodes is called the cornerstone node, and the running contract is called the cornerstone contract, which is the strategic basis for subsequent contract adjustment. Unremovable modification is also based on the degree of dispersion. Imagine: Is it easy to destroy the eggs in a basket and easily destroy them collectively? The consensus book is difficult to change based on the scattered data between the earth and the moon. Of course, the application of cryptography is more solid.ÒÔ¾¡¿ÉÄÜ·ÖÉ¢µÄ½Úµã¹²Í¬´æ´¢Ò»ÖÂµÄºÏÔ¼×ÜÕË£¬ÈÎºÎÈË£¨²»ÏŞÓÚºÏÔ¼ËùÓĞÈË£¬»¹ÓĞÎïÁªÍøĞÅÏ¢²ÎÓëÕß£©¶¼¿ÉÒÔËæÊ±½øĞĞÕË±¾ºË¶Ô²éÑ¯£¬´ïµ½¹²Ê¶Í¸Ã÷»¯²»¿É´Û¸ÄµÄÄ¿µÄ¡£88ÍòÊÇÄÜ³õ²½Âú×ã·ÖÉ¢Ä¿µÄ¶øÊµÏÖÄÑÒÔ´Û¸ÄµÄ»ùÊıÖµ£¬Òò´ËÊ×Åú88Íò¸ö½Úµã±»³ÆÎª»ùÊ¯½Úµã£¬ÆäÖĞÔËĞĞµÄºÏÔ¼³ÆÎª»ùÊ¯ºÏÔ¼£¬ÊÇºóĞøºÏÔ¼µ÷ÕûµÄ²ßÂÔ»ù´¡¡£²»¿É´Û¸ÄĞÔ»¹»ùÓÚÀëÉ¢³Ì¶È£¬ÊÔÏë£º¼¦µ°·ÅÔÚÒ»¸öÀº×ÓÈİÒ×¼¯Ìå±»´İ»Ù»¹ÊÇ·ÖÉ¢¶à¸ö¼¦ÎÑÖğÒ»ÕÒ³öºó´İ»ÙÈİÒ×£¿¹²Ê¶ÕË±¾ÕıÊÇ»ùÓÚµØÔÂ¼ä¸÷´¦·ÖÉ¢µÄÊı¾İÊµÏÖµÄÄÑÒÔ¸ü¸Ä£¬µ±È»ÆäÖĞ»¹ÓĞÃÜÂëÑ§µÄÓ¦ÓÃ¸ü¼Ó¹ÌÁËÕâÖÖÌØĞÔ
- 
-https://...
-
-
-ÁË½âÔÂÇò£¬Ñ§Ï°ÔÂÇòÖªÊ¶£¬ÎªµÇÂ½´òºÃ»ùÊ¯
-ÁË½âÔÂÇò£¬Ñ§Ï°ÔÂÇòÖªÊ¶£¬ÎªµÇÂ½´òºÃ»ùÊ¯
- 
-Learn about the moon, learn about the moon, and lay the foundation for landing
-Can I choose the location of the moon?
-ÎÒ¿ÉÒÔ¶ÔÔÂÁÁµØµãÑ¡ÔñÃ´£¿
-We use the order confirmation time as the location selection. After the conditions of 880,000 nodes are met, we will select the location according to the order, and record it in the lunar ownership account and one person. Finally, we use the lunar latitude and longitude value as the anchor. Determine the association. In astronomy, we know that about 59% of the lunar surface can be seen by people because of the pendulum phenomenon. It can be clearly observed with astronomical telescopes. Therefore, there are more scenic spots and more convenient for observation and communication. Then the moon back area must be bad, although the hidden parts are invisible, but in the future, it may bring more surprises and surprises to the people. Therefore, the human footsteps should be as wide and wide as possible. And the choice of location is actually a good time for the whole family to learn space knowledge and solve problems. You will get a lot of knowledge about the moon, such as: the landform of the moon, the distribution of resources, the lighting conditions, and the lowest time of the cabin.Chang'e the most likely place to live, how to find laurel trees, etc., the children who grow up in this family atmosphere of knowledge creation will inevitably become a promising and open-minded and promising person to win in the Mars era. It can be said that it is planting a valuable seed, enlightening a new style.ÎÒÃÇÒÔ¶©µ¥µÄÈ·ÈÏÊ±¼äÏÈºó×öÎªµØµãÔñÑ¡ÅÅĞò£¬ÔÚ88Íò¸ö½ÚµãÌõ¼şÂú×ãºó½øĞĞ°´¸ÃÏÈºó½øĞĞµØµãÑ¡Ôñ£¬Í³Ò»¼ÇÂ¼ÓÚÔÂÇòÈ¨ÊôÕË±¾²¢ÈËÊÖÒ»·İ£¬ÖÕÒÔÔÂÇòµÄ¾­Î³Öµ×÷ÎªÃª¶¨¹ØÁª¡£ÔÚÌìÎÄÑ§ÉÏ£¬ÓÉÓÚÖÓ°ÚÏÖÏóÎÒÃÇÖªµÀÊµ¼ÊÉÏÓĞÔ¼59%µÄÔÂÃæ¿ÉÒÔ±»ÈËÃÇ¿´¼û£¬ÓÃÌìÎÄÍûÔ¶¾µ¾Í¿ÉÒÔÇåÎú¹Û²â£¬Òò´Ë·ç¾°ÃûÊ¤±È½Ï¶à£¬ÓÚ¹Û²ìÓëÍ¨Ñ¶Ò²½ÏÎª·½±ã¡£ÄÇÃ´ÔÂ±³ÇøÊÇ·ñ¾ÍÒ»¶¨²»ºÃÄØ£¬Òş²ØµÄ²¿Î»ËäÈ»¿´²»¼û£¬µ«ÈÕºóËµ²»¶¨´ø¸øÈËÃÇ¸ü¶àµÄÒâÍâ¼°¾ªÏ²¾ÍÊÇÔÂ±³£¬Òò´ËÈËÀàÌ¤×ãÔÂÇò×ã¼£Ó¦¾¡Á¿ÁÉÀ«¶ø·Ö²¼¹ã·º¡£¶øÇÒµØµãÔñÑ¡Êµ¼ÊÊÇ¸öÈ«¼ÒÒ»ÆğÑ§Ï°Ì«¿ÕÖªÊ¶¡¢ÓöÌâ½âÌâµÄºÃÊ±»ú£¬Äã½«ÓÉ´Ë»ñµÃ´óÁ¿µÄÔÂÁÁÖªÊ¶£¬±ÈÈç£ºÔÂÇòµÄµØÈİµØÃ²¡¢×ÊÔ´·Ö²¼¡¢¹âÕÕÌõ¼ş¡¢Ê²Ã´Ê±¼äº½²Õ·ÑÓÃ×îµÍ¡¢æÏ¶ğ×î¿ÉÄÜ¾Ó×¡ÄÄÀï¡¢ÈçºÎÕÒµ½ÔÂ¹ğÊ÷µÈµÈ£¬ÔÚÕâÑù´´ÔìÖªÊ¶µÄ¼ÒÍ¥·ÕÎ§ÏÂ³É³¤µÄº¢×Ó±ØÈ»»á³ÉÎªÇé²Ù¸ßÉĞ¡¢ÑÛ½ç¿ªÀ«µÄÓĞÎªÖ®Ê¿¶øÓ®ÔÚ»ğĞÇÊ±´ú¡£¿ÉÒÔËµ£¬ÊÇÖÖÏÂÁËÒ»¿Å¿É¹óµÄÖÖ×Ó£¬ÆôÃÉÕ¸ĞÂ¸ñµ÷
- 
-https://...
-
-
-²ûÊöÀíÂÛ£ºÌ½ÔÂ¡¢µÇÔÂ¡¢×¤ÔÂ¼Æ»®£¬ĞÅÏ¢ÏÈĞĞ¡ª¡ªÊ×ÏÈ£¬ĞèÒª°ÑÔÂÇò±ä³ÉÒ»¸öÖÇ»ÛĞÇÇò
-²ûÊöÀíÂÛ£ºÌ½ÔÂ¡¢µÇÔÂ¡¢×¤ÔÂ¼Æ»®£¬ĞÅÏ¢ÏÈĞĞ¡ª¡ªÊ×ÏÈ£¬ĞèÒª°ÑÔÂÇò±ä³ÉÒ»¸öÖÇ»ÛĞÇÇò
- 
- Explain the theory: lunar exploration, moon landing, monthly station planning, information first¡ªfirst, you need to turn the moon into a smart planet
-Exploring the moon Station
- Ì½ÔÂ×¤ÔÂ
-Information first
-ĞÅÏ¢ÏÈĞĞ
-Wisdom moon
-ÖÇ»ÛÔÂÇò
-IOE-BlockChain
-ÇøÁ´ÎïÁª
-¡°And then£¿¡±¡°È»ºóÄØ£¿¡±
-¡°A seamless Internet of things can truly achieve unmanned driving, can an unmanned engineering team work together to build your mansion for you ~¡±¡°ÎŞ·ìµÄÎïÎï»¥Áª²ÅÄÜÕæÕıÊµÏÖÎŞÈË¼İÊ»°¡¡¢²ÅÄÜÓĞÎŞÈËµÄ¹¤³Ì¶ÓĞ­Í¬ÎªÄãÊ©¹¤´òÔìÄã¼ÒºÀÕ¬Âï~¡±
-¡°There is also the EARTH-MOON mobile phone, the EARTH-MOON issue of consensus. In this way, after the information networking, the moon car can be called, and the small workshop can also call each other without switching to avoid collisions and realize shuttle driving with Eyes-closed.¡±¡°»¹ÓĞµØÔÂÊÖ»ú¡¢¹²Ê¶µÄµØÔÂºÅ¶Î¡£ÕâÑù£¬ĞÅÏ¢ÁªÍøÒÔºó¾Í¿ÉÒÔ¸øÔÂÇòĞ¡³µÍ¨µç»°ÁË£¬Ğ¡³µ¼äÒ²¿ÉÒÔ²»ÓÃÇĞ»»¶ø»¥ÏàÍ¨µç»°±ÜÃâ×²³µÊµÏÖ±ÕÑÛ´©Ëó¼İÊ»À²£¡¡±
- "Oh, then I see. A clever planet condensed by the wisdom of all members of the month family runs on the public blockchain and consensus information chain between the earth and the moon."¡°Å¶£¬ÄÇÎÒÃ÷°×ÁË£¬Ò»¸öÔÂ×åµÄÈ«Ô±ÖÇ»ÛÄı½áµÄ´ÏÃ÷ĞÇÇò£¬ÔËĞĞÔÚµØÔÂ¼äµÄ¹«ÓĞÇø¿éÁ´¡¢¹²Ê¶ĞÅÏ¢Á´¡£¡±
- 
-
-
-
- 
-To ensure the smooth implementation of the lunar exploration, moon landing, and monthly stationing, we choose information first¡ªfirst, we will transform the moon into a smart planet, and we will have scattered beacon nodes in the earth and the moon to form a network to form a moon-connected network. Earth's consensus communication network; Secondly, sending instructions to form a consensus for the Internet of things to prepare for the moon landing; when everything is ready, it can form an unmanned, autonomous operation covering the moon. At this point, you can first launch some seeds to plant and fertilize in your own backyard, and then continue to send some of the things to decorate the home to the moon. In the near future, with the key handed over by the commissioned developer, you can enjoy the bag with ease£º)±£ÕÏÌ½ÔÂ¡¢µÇÔÂ¡¢×¤ÔÂ¼Æ»®Ë³ÀûÊµÊ©£¬ÎÒÃÇÑ¡ÔñĞÅÏ¢ÏÈĞĞ¡ª¡ªÊ×ÏÈ£¬×ÅÊÖ°ÑÔÂÇò¸ÄÔì³ÉÒ»¸öÖÇ»ÛĞÇÇò£¬ÔÚµØÇòºÍÔÂÁÁÖĞÒªÓĞ·ÖÉ¢µÄĞÅ±ê½ÚµãĞÎ³ÉÁªÍø£¬ĞÎ³ÉÒ»¸ö¸²¸ÇÔÂÇò»¥ÁªµØÇòµÄ¹²Ê¶Í¨Ñ¶ÍøÂç£»Æä´Î£¬·¢ËÍÖ¸ÁîÎª×Ô¼ÒµÄ×°±¸ĞÎ³É¹²Ê¶ÎïÁªÍøÎªµÇÔÂ×öÇ°ÆÚ×¼±¸£»µ±Ò»ÇĞ¾ÍĞ÷¾Í¿ÉÒÔĞÎ³É¸²¸ÇÔÂÇòµÄÎŞÈË¼İÊ»¡¢×ÔÖ÷²Ù×÷¡£´ËÊ±¿ÉÒÔÏÈ·¢ÉäÒ»Ğ©ÖÖ×ÓÔÚ×Ô¼ÒºóÔº²¥ÖÖÊ©·Ê£¬Â½Â½ĞøĞøÔÙ°ÑÒ»Ğ©×°ĞŞ¼Ò¾ÓµÄ¶«Î÷ÏÈÆÚËÍÔÂ¡£ÔÚ²»¾ÃÒÔºó£¬´øÉÏÎ¯ÍĞµÄ¿ª·¢ÉÌ½»¸øµÄÔ¿³×£¬Äã¾Í¿ÉÒÔÃÀ×Ì×ÌÇáËÉÁà°üÈë×¡À²:£©
- 
-https://...
-
-
-ĞÅÏ¢ÔÂÇò£¬Êı¾İ¼ÛÖµÎŞÏŞ
-ĞÅÏ¢ÔÂÇò£¬Êı¾İ¼ÛÖµÎŞÏŞ
- 
-Information moon, unlimited data value
-The hardcore part is @MAILTOPIA, and the good horse is equipped with a good saddle. As a unique glue blockchain technology, it seamlessly bonds various central and non-central information nodes, and has a strong information penetration. Attributes let your rights be recorded in every corner of the Earth and Moon information world. In the era of the great voyage of the universe, every contribution and contribution that belongs to you will be firmly remembered! At present, the most elaborate consensus method for human design is @MAILTOPIA, which is irreplaceable and impeccable. More cross-domain functionality enables a decentralized device network that humans have been unable to achieve, and AI can be firmly locked by human consensus, and its maximum consensus can resist small groups, small consensus attacks, and not go to humans. The opposite of development!ÆäÖĞ×îºËĞÄµÄ²¿·ÖÊÇ@MAILTOPIA£¬ºÃÂíÒªÅäºÃ°°£¬×÷Îª¶ÀÌØµÄ½ºË®ĞÍÇø¿éÁ´¼¼Êõ£¬ÎŞ·ìÕ³ºÏ¸÷ÑùÖĞĞÄĞÔÓë·ÇÖĞĞÄĞÔĞÅÏ¢½Úµã£¬²¢ÇÒ¸ü¾ßÓĞµÄÇ¿´óµÄĞÅÏ¢ÉøÍ¸ÊôĞÔÈÃÄúµÄÈ¨ÒæÓÚµØÔÂĞÅÏ¢ÊÀ½çµÄÃ¿¸ö½ÇÂä±»¼ÇÂ¼¡£ÔÚÓîÖæµÄ´óº½º£Ê±´úÀ´ÁÙ£¬·²ÊôÓÚÄãµÄÃ¿Ò»·İ¸¶³öÓë¹±Ï×¶¼»á±»ÀÎÀÎ¼Ç×¡Å¶£¡Ä¿Ç°ÈËÀàÉè¼Æ×î¾«ÇÉµÄ¹²Ê¶·½Ê½¾ÍÊÇ@MAILTOPIA£¬ÎŞ¿ÉÌæ´úÎŞĞ¸¿É»÷Å¶¡£¸üÓĞ¿çÓò¹¦ÄÜÊµÏÖÁËÈËÀàÒ»Ö±Ã»·¨ÊµÏÖµÄÈ¥ÖĞĞÄĞÔÉè±¸Íø£¬¶øAI¿ÉÒÔ±»ÈËÀàµÄ¹²Ê¶ÀÎ¹ÌËø¶¨£¬Æä×î´ó»¯µÄ¹²Ê¶²ÅÄÜ¹»µÖ¿¹Ğ¡¼¯ÍÅ¡¢Ğ¡¹²Ê¶µÄ¹¥»÷£¬²»»á×ßµ½ÈËÀà·¢Õ¹µÄ¶ÔÁ¢Ãæ£¡
- 
-https://...
-
-
-ÊµÓÃº½Ìì²úÆ·Ä¿Â¼£¬³ÖĞøÉÏĞÂÖĞ
-ÊµÓÃº½Ìì²úÆ·Ä¿Â¼£¬³ÖĞøÉÏĞÂÖĞ
- 
- Practical aerospace product catalogue, continuing to new
-Q: Emphasize that the lunar information and equipment will be used first to protect the human landing on the moon. Is it possible to run the ownership and contract after the completion of the lunar informationization?ÎÊ£ºÇ¿µ÷ÏÈÒÔÔÂÇòĞÅÏ¢»¯¡¢Éè±¸»¯£¬½ø¶ø±£ÕÏÈËÀàµÄµÇÔÂ£¬ÊÇ²»ÊÇÔÚÔÂÇòĞÅÏ¢»¯Íê³ÉÒÔºó²ÅÄÜÔËĞĞÈ¨ÊôºÍÔ¼ÄØ£¿
-A: No, the nodes in which the Consensus Box operates are not limited by the ¡°regional space¡±, but the consensus formed in the ¡°information space¡±, that is, when the cornerstone contract begins to run on the earth, the tenure begins to be established. . The informationization of the moon is to use the blockchain function of the box to realize the secure communication under verification. However, the equipment fully utilizes the central Internet of Things property of the box, mobilizes the entire moon's facilities, and finally falls to the moon. Implementation, there is no bug here!´ğ£º²»ÊÇµÄ£¬¹²Ê¶ºĞ×ÓÔËĞĞµÄ½Úµã²¢²»ÒÔ¡°µØÓòµÄ¿Õ¼ä¡±×÷ÎªÏŞÖÆ£¬¶øÊÇÔÚ¡°ĞÅÏ¢µÄ¿Õ¼ä¡±ĞÎ³ÉµÄ¹²Ê¶£¬¾ÍÊÇËµÔÚ»ùÊ¯ºÏÔ¼¿ªÊ¼ÔÚµØÇòÉÏÔËĞĞÊ±ºò£¬È¨Êô¾Í¿ªÊ¼È·Á¢¡£¶øÔÂÇòµÄĞÅÏ¢»¯ÊÇÔÙ´ÎÀûÓÃÁËºĞ×ÓµÄÇø¿éÁ´¹¦ÄÜÊµÏÖÑéÖ¤ÏÂµÄ°²È«Í¨Ñ¶£¬È»Éè±¸»¯Ôò³ä·Ö·¢»ÓºĞ×ÓÈ¥ÖĞĞÄĞÔÎïÁªÍøÊôĞÔ£¬µ÷¶¯Õû¸öÔÂÇòµÄÉèÊ©¹²½¨£¬×îÖÕ°ÑµÇÔÂÂäµ½ÊµÏÖ´¦£¬ÕâÀïÃ»ÓĞbug£¡
- 
-https://...
-
-
-ÓîÖæÄÇÃ´´ó£¬Ò»ÆğÈ¥¿´¿´
-ÓîÖæÄÇÃ´´ó£¬Ò»ÆğÈ¥¿´¿´
- 
- The universe is so big, go see it together.
-People always have to look at it. After seeing the beauty of the moon, this healthy desire will lead people to the universe to continue to appreciate the beauty of the universe. The journey of the sun and the moon is in it; the stars are brilliant, all in it. When you have experienced everything and return to your home, you will be more cherished and cherish your homeland when you see the smoke. Good!ÈË×ÜÊÇµÃÂ¤ÍûÊñµÄ£¬¼ûÊ¶ÔÂÇòÖ®ÃÀºó£¬ÕâÖÖ½¡¿µµÄÓûÍû½«´øÁìÈËÃÇ×ßÏòÓîÖæ¼ÌĞøÁìÂÔÓîÖæÖ®ÃÀ¡ª¡ªÈÕÔÂÖ®ĞĞ£¬½ÔÔÚÆäÖĞ£»ĞÇå«²ÓÀÃ£¬½ÔÎªÆäÀïÀ²¡£ µ±ÄãÁìÂÔÍêÒ»ÇĞ»Ø¹é¼ÒÔ°£¬ÓÖ¼û´¶ÑÌÊ±Ò»¶¨»á¸üÕä°®¸üÕäÏ§ÄúµÄµØÇò¼ÒÔ°¡£²»ÊÇÂğ£¡
-PS. Landing on the moon is not just about thought, but also about action. Put your hands up and your head, and use the thinking spanning thousands of years to do what you are doing now. We choose the most useful areas of space travel for creation, and use small achievements as a way to attract others. Everyone is a scientist.PS. µÇÂ½ÉÏÔÂÇò£¬¿É²»Ö¹ÓÚË¼Ïë£¬»¹ÔÚÓÚĞĞ¶¯Á¦¡£¶¯ÊÖÆğÀ´¡¢¿ª¶¯ÄÔ´ü£¬ÓÃ¿çÔ½Ç§ÄêµÄË¼Î¬£¬Ò»µãÒ»µÎ×öÏÖÔÚµÄÊÂ¡£ÎÒÃÇÑ¡ÔñÌ«¿ÕÖ®ĞĞ×îÓĞÓÃµÄÁìÓò½øĞĞ´´Ôì£¬ÒÔĞ¡Ğ¡³É¹û×÷ÎªÅ××©ÒıÓñ£¬ÈËÈË¶¼ÊÇ¿ÆÑ§¼Ò¡£
- A. Additive manufacturing technology (commonly known as 3D printing) will surely be widely used in the space field in the future-think about it, there is a lack of interstellar navigational supplies, and a large number of personalized items need to be randomly used on-site. The application fields are not limited to space food printing, building printing, parts printing, but also play an important role in medical rescue and organ repair / replacement during long space journeys.A. Ôö²ÄÖÆÔì¼¼Êõ£¨Í¨³Æ3D´òÓ¡£©ÔÚÎ´À´Ì«¿ÕÁìÓò±Ø»áµÃµ½Ê®·Ö¹ã·ºÓ¦ÓÃ¡ª¡ªÏëÏë¿´¿´£¬ÔÚĞÇ¼Ê¼äº½ĞĞÎï×ÊÈ±·¦£¬´óÁ¿¸öĞÔ»¯ÎïÆ·ĞèÒª¾ÍµØÈ¡²ÄËæ»úËùÓÃ¡£Ó¦ÓÃÁìÓò¾ø²»Ö¹ÓÚÌ«¿ÕÊ³Æ·´òÓ¡¡¢½¨ÖşÎï´òÓ¡¡¢Áã¼ş´òÓ¡£¬¸üÔÚÂş³¤Ì«¿ÕÂÃ³ÌµÄÒ½ÁÆ¾È»¤¡¢Æ÷¹ÙĞŞ¸´/Ìæ»»ÓĞ×ÅÖØÒª×÷ÓÃ¡£
-We have already supplied some sets of equipment for testing by Chinese and Canadian scientific research institutes, which are just starting from the additive manufacturing of special materials, and will definitely achieve the printing target of taking moon dust.ÎÒÃÇÒÑ¾­¹©Ó¦ÖĞ¹úºÍ¼ÓÄÃ´ó¿ÆÑĞ»ú¹¹²âÊÔÓÃµÄ¶àÌ¨Éè±¸£¬ÕıÊÇ×ÅÑÛÓÚÌØÖÖ²ÄÁÏµÄÔö²ÄÖÆÔì£¬×îÖÕ¶¨ÄÜÊµÏÖÈ¡ÔÂ³¾µÄ´òÓ¡Ä¿±ê¡£
- 
-https://...
-
-
-ÔÂ³¾3D´òÓ¡»ú£¬Î´À´¾ÍµØÈ¡²ÄµÄ×¤ÔÂÀûÆ÷
-ÔÂ³¾3D´òÓ¡»ú£¬Î´À´¾ÍµØÈ¡²ÄµÄ×¤ÔÂÀûÆ÷
- 
- Moon Dust 3D Printer for local future materials.You can also order from us£¨Ò²¿ÉÒÔÕÒÎÒÃÇ¶©¹ºÅ¶£© 
- B. Another area is AI, whose significance is not limited to intelligent control and autonomous navigation in science fiction movies.B. ÁíÒ»¸öÁìÓòÊÇAI£¬ÆäÒâÒå²¢²»Ö¹ÓÚ¿Æ»ÃµçÓ°ÀïµÄÖÇÄÜ¿ØÖÆ¡¢×ÔÖ÷º½ĞĞ£¬»¹ÔÚÓÚ¸øÂş³¤º½³Ì´´Ôì¾«ÉñÊ³Á¸ÓëĞÄÀíÎ¿¼®
-In the lonely journey, astronauts need someone to chat, talk, arrange, and tell stories. Behind this is a series of serious sciences.¹Âµ¥µÄÂÃ³ÌÖĞ£¬Óîº½Ô±ĞèÒªÓĞÈËÁÄÌì¡¢Ì¸ĞÄ¡¢ÅÅÇ²¡¢½²¹ÊÊÂ£¬ÕâÀïµÄ±³ºó¿ÉÊÇÒ»ÏµÁĞÑÏËàµÄ¿ÆÑ§Âï
-During the lonely journey, astronauts need someone to chat, talk, arrange, and tell stories. Behind here is a series of serious and rigorous sciences. In short, for many people, there are still too many unknowable factors in space waiting to be exposed, and when they are completely safe, all difficulties have countermeasures before they live. Before the infrastructure is perfected and before the advancement team of the IoT can know that they know how to resist the dangers of the universe, it should be just a paradise for explorers and a sandbox of thought.¹Âµ¥µÄÂÃ³ÌÖĞ£¬Óîº½Ô±ĞèÒªÓĞÈËÁÄÌì¡¢Ì¸ĞÄ¡¢ÅÅÇ²¡¢½²¹ÊÊÂ£¬ÕâÀïµÄ±³ºó¿ÉÊÇÒ»ÏµÁĞÑÏËà¡¢ÑÏ½÷µÄ¿ÆÑ§Âï¡£ ×ÜÖ®ÄØ£¬¶Ô´ó¶ÔÊıÈËÀ´Ëµ£¬Ì«¿ÕÖĞ»¹ÓĞÌ«¶à²»¿ÉÖªÒòËØµÈ´ı±©Â¶£¬µÈÍêÈ«°²È«ÁË£¬¸÷¸öÀ§ÄÑ¶¼ÓĞ¶Ô²ßÁËÔÙ×¡ÉÏÈ¥¡£ÔÚ»ù´¡ÉèÊ©ÍêÉÆÖ®Ç°¡¢ÔÚÎïÁªÏÈÇ²ÍÅÄÜÖª¼ºÖª±ËµÖ¿¹ÓîÖæÎ£º¦Ç°£¬Ó¦¸ÃÖ»ÊÇÌ½ÏÕÕßµÄÀÖÔ°ºÍË¼ÏëÉ³ÅÌµÄÕóµØ¡£
- 
-https://...
-
-
-°ÑĞÂÎÄÃ÷²¥ÖÖµ½¸ü¶àµÄÒìÓòĞÇÇò
-°ÑĞÂÎÄÃ÷²¥ÖÖµ½¸ü¶àµÄÒìÓòĞÇÇò
- 
- Seeding a new civilization to more exotic planets
-We try to use the built Turing equipment network to output articles, demonstrate the AI style story style "Hundred Fairy Tales of the Earth", and wait for more equipment and better algorithms to continue writing¡¶The Moon Diary¡·ÎÒÃÇ³¢ÊÔÓÃ´î½¨µÄÍ¼ÁéÉè±¸ÍøÊä³öÎÄÕÂ£¬Ê¾·¶AIÌåµÄ¹ÊÊÂ·ç¸ñ¡¶µØÇòÍ¯»°°ÙÆª¡·£¬µÈ×Å¸ü¶àÉè±¸¡¢¸ü¼ÑËã·¨À´ĞøĞ´¡¶µÇÔÂ¼Ç¡·
-https://zhuanlan.zhihu.com/c_1193560847874781184
- 
-https://...
-
-
-ÄÚÈİ¾Û±äÆ÷£¬Éú²úĞÅÏ¢¼ÓËÙ
-ÄÚÈİ¾Û±äÆ÷£¬Éú²úĞÅÏ¢¼ÓËÙ
- 
-Content Fusion, Accelerating Production Information
- 
-
-
-
- 
-C. The physical and chemical conditions of space are too different. Most medical sciences developed according to the theory of choice will be different from heaven to earth. From the basic to the practice, they will branch into a large area. What about empty missions? Not too simple, but too hard!C.Ì«¿Õ¼äÀí»¯Ìõ¼şÌ«²»Ò»Ñù£¬´ó¶àÊı¸ù¾İÈËÔñÀíÂÛ·¢Õ¹³öµÄÒ½ÁÆ¿ÆÑ§½«»áµØÌì²î±ğ£¬´Ó»ù´¡µ½Êµ¼ù¶¼½«·ÖÖ§´¦Ò»¸ö´óÁìÓò£¬ÄÇÃ´Ã»ÓĞ½¡×³ÀÖ¹ÛµÄÓîº½Ô±ÈçºÎÈ¥Íê³ÉÉî¿ÕÈÎÎñÄØ£¿²»ÊÇÌ«¼òµ¥£¬¶øÊÇÌ«ÄÑÁË£¡
-¿ªÔ´ĞÔÏîÄ¿µÄ´úÂë²Ö£ºhttps://github.com/MicIOE
-
-https://www.facebook.com/sivi.micioe.1
-
+å¼€æºæ€§é¡¹ç›®çš„ä»£ç ä»“ï¼šhttps://github.com/MicIOE
